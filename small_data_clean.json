@@ -1,0 +1,401 @@
+{
+    "total": 1498,
+    "state": "0",
+    "limit": 10,
+    "offset": 0,
+    "data": {
+        "0": {
+            "Pi": "18165592935938996736",
+            "Ph": "keyword 1",
+            "Kb": 20190326,
+            "Tg": {},
+            "Cp": "2.25",
+            "Nq": "260",
+            "Gs": "0",
+            "Dt": {
+                "20191225": {
+                    "*.mysite.com\/*": 7
+                }
+            },
+            "Be": {
+                "*.mysite.com\/*": 7
+            },
+            "Fi": {
+                "*.mysite.com\/*": 7
+            },
+            "Diff": {
+                "*.mysite.com\/*": 0
+            },
+            "Diff1": {
+                "*.mysite.com\/*": 93
+            },
+            "Diff7": {
+                "*.mysite.com\/*": 93
+            },
+            "Diff30": {
+                "*.mysite.com\/*": 93
+            },
+            "Vi": {
+                "20191225": {
+                    "*.mysite.com\/*": 0.0068999999999999999
+                },
+                "Diff": {
+                    "*.mysite.com\/*": 0
+                }
+            },
+            "Sf": {
+                "20191225": [
+                    "adt",
+                    "rev",
+                    "stl"
+                ]
+            },
+            "Tr": {
+                "20191225": {
+                    "*.mysite.com\/*": 0.32000000000000001
+                }
+            },
+            "Tc": {
+                "20191225": {
+                    "*.mysite.com\/*": 0.73999999999999999
+                }
+            },
+            "Lu": {
+                "20191225": {
+                    "*.mysite.com\/*": "https:\/\/www.mysite.com\/product.cfm?p=155"
+                }
+            },
+            "Lt": {
+                "20191225": {
+                    "*.mysite.com\/*": [
+                        "org"
+                    ]
+                }
+            }
+        },
+        "1": {
+            "Pi": "1090615528833642752",
+            "Ph": "keyword 2",
+            "Kb": 20190326,
+            "Tg": {},
+            "Cp": "0.81",
+            "Nq": "390",
+            "Gs": "0",
+            "Dt": {
+                "20191225": {
+                    "*.mysite.com\/*": 3
+                }
+            },
+            "Be": {
+                "*.mysite.com\/*": 3
+            },
+            "Fi": {
+                "*.mysite.com\/*": 3
+            },
+            "Diff": {
+                "*.mysite.com\/*": 0
+            },
+            "Diff1": {
+                "*.mysite.com\/*": 97
+            },
+            "Diff7": {
+                "*.mysite.com\/*": 97
+            },
+            "Diff30": {
+                "*.mysite.com\/*": 97
+            },
+            "Vi": {
+                "20191225": {
+                    "*.mysite.com\/*": 0.017399999999999999
+                },
+                "Diff": {
+                    "*.mysite.com\/*": 0
+                }
+            },
+            "Sf": {
+                "20191225": [
+                    "adb"
+                ]
+            },
+            "Tr": {
+                "20191225": {
+                    "*.mysite.com\/*": 1.23
+                }
+            },
+            "Tc": {
+                "20191225": {
+                    "*.mysite.com\/*": 1
+                }
+            },
+            "Lu": {
+                "20191225": {
+                    "*.mysite.com\/*": "https:\/\/www.mysite.com\/keyword2\/"
+                }
+            },
+            "Lt": {
+                "20191225": {
+                    "*.mysite.com\/*": [
+                        "org"
+                    ]
+                }
+            }
+        },
+        "2": {
+            "Pi": "13621862969727492608",
+            "Ph": "keyword 3",
+            "Kb": 20190326,
+            "Tg": {},
+            "Cp": "0.52",
+            "Nq": "210",
+            "Gs": "0",
+            "Dt": {
+                "20191225": {
+                    "*.mysite.com\/*": 25
+                }
+            },
+            "Be": {
+                "*.mysite.com\/*": 25
+            },
+            "Fi": {
+                "*.mysite.com\/*": 25
+            },
+            "Diff": {
+                "*.mysite.com\/*": 0
+            },
+            "Diff1": {
+                "*.mysite.com\/*": 75
+            },
+            "Diff7": {
+                "*.mysite.com\/*": 75
+            },
+            "Diff30": {
+                "*.mysite.com\/*": 75
+            },
+            "Vi": {
+                "20191225": {
+                    "*.mysite.com\/*": 0.0016000000000000001
+                },
+                "Diff": {
+                    "*.mysite.com\/*": 0
+                }
+            },
+            "Sf": {
+                "20191225": [
+                    "stl"
+                ]
+            },
+            "Tr": {
+                "20191225": {
+                    "*.mysite.com\/*": 0.059999999999999998
+                }
+            },
+            "Tc": {
+                "20191225": {
+                    "*.mysite.com\/*": 0.029999999999999999
+                }
+            },
+            "Lu": {
+                "20191225": {
+                    "*.mysite.com\/*": "https:\/\/www.mysite.com\/keyword3\/"
+                }
+            },
+            "Lt": {
+                "20191225": {
+                    "*.mysite.com\/*": [
+                        "org"
+                    ]
+                }
+            }
+        }
+},
+"Sfc": {
+    "org": {
+        "Ex": 0,
+        "Ne": 1498,
+        "De": 0,
+        "Dn": 0
+    },
+    "geo": {
+        "Ex": 7,
+        "Ne": 1491,
+        "De": 0,
+        "Dn": 7
+    },
+    "amp": {
+        "Ex": 0,
+        "Ne": 1498,
+        "De": 0,
+        "Dn": 0
+    },
+    "tea": {
+        "Ex": 0,
+        "Ne": 1498,
+        "De": 0,
+        "Dn": 0
+    },
+    "new": {
+        "Ex": 4,
+        "Ne": 1494,
+        "De": 0,
+        "Dn": 4
+    },
+    "rel": {
+        "Ex": 56,
+        "Ne": 1442,
+        "De": 0,
+        "Dn": 56
+    },
+    "img": {
+        "Ex": 2,
+        "Ne": 1496,
+        "De": 0,
+        "Dn": 2
+    },
+    "adt": {
+        "Ex": 275,
+        "Ne": 1223,
+        "De": 82,
+        "Dn": 193
+    },
+    "shp": {
+        "Ex": 103,
+        "Ne": 1395,
+        "De": 0,
+        "Dn": 103
+    },
+    "knw": {
+        "Ex": 1,
+        "Ne": 1497,
+        "De": 0,
+        "Dn": 1
+    },
+    "twt": {
+        "Ex": 0,
+        "Ne": 1498,
+        "De": 0,
+        "Dn": 0
+    },
+    "app": {
+        "Ex": 0,
+        "Ne": 1498,
+        "De": 0,
+        "Dn": 0
+    },
+    "vib": {
+        "Ex": 0,
+        "Ne": 1498,
+        "De": 0,
+        "Dn": 0
+    },
+    "rev": {
+        "Ex": 1208,
+        "Ne": 290,
+        "De": 0,
+        "Dn": 1208
+    },
+    "vid": {
+        "Ex": 6,
+        "Ne": 1492,
+        "De": 0,
+        "Dn": 6
+    },
+    "fsn": {
+        "Ex": 67,
+        "Ne": 1431,
+        "De": 0,
+        "Dn": 67
+    },
+    "stl": {
+        "Ex": 911,
+        "Ne": 587,
+        "De": 69,
+        "Dn": 842
+    },
+    "adb": {
+        "Ex": 573,
+        "Ne": 925,
+        "De": 220,
+        "Dn": 353
+    },
+    "kng": {
+        "Ex": 32,
+        "Ne": 1466,
+        "De": 0,
+        "Dn": 32
+    }
+},
+"Vc": {
+    "0-10": 199,
+    "11 - 100": 36,
+    "101 - 1000": 1006,
+    "1001 - 10000": 204,
+    "10001+": 53
+},
+"Topc": {
+    "all": 1498,
+    "all_improved": 0,
+    "all_declined": 0,
+    "all_difference": 0,
+    "all_left": 0,
+    "all_entered": 0,
+    "all_unchanged": 1498,
+    "top3": 177,
+    "top3_improved": 0,
+    "top3_declined": 0,
+    "top3_difference": 0,
+    "top3_left": 0,
+    "top3_entered": 0,
+    "top3_unchanged": 177,
+    "top10": 512,
+    "top10_improved": 0,
+    "top10_declined": 0,
+    "top10_difference": 0,
+    "top10_left": 0,
+    "top10_entered": 0,
+    "top10_unchanged": 512,
+    "top20": 741,
+    "top20_improved": 0,
+    "top20_declined": 0,
+    "top20_difference": 0,
+    "top20_left": 0,
+    "top20_entered": 0,
+    "top20_unchanged": 741,
+    "4_10": 335,
+    "4_10_improved": 0,
+    "4_10_declined": 0,
+    "4_10_difference": 0,
+    "4_10_left": 0,
+    "4_10_entered": 0,
+    "4_10_unchanged": 335,
+    "11_20": 229,
+    "11_20_improved": 0,
+    "11_20_declined": 0,
+    "11_20_difference": 0,
+    "11_20_left": 0,
+    "11_20_entered": 0,
+    "11_20_unchanged": 229,
+    "21_100": 694,
+    "21_100_improved": 0,
+    "21_100_declined": 0,
+    "21_100_difference": 0,
+    "21_100_left": 0,
+    "21_100_entered": 0,
+    "21_100_unchanged": 694,
+    "top100": 1435,
+    "top100_improved": 0,
+    "top100_declined": 0,
+    "top100_difference": 0,
+    "top100_left": 0,
+    "top100_entered": 0,
+    "top100_unchanged": 1435,
+    "out": 63,
+    "out_improved": 0,
+    "out_declined": 0,
+    "out_difference": 0,
+    "out_left": 0,
+    "out_entered": 0,
+    "out_unchanged": 63
+},
+"server": "USA",
+"exec_time": 2.705991
+}
